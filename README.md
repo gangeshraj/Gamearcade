@@ -1,4 +1,7 @@
-CLASSIC ARCADE GAME
+###  CLASSIC ARCADE GAME
+
+### HOSTED AT
+### https://gangeshraj.github.io/Gamearcade/
 
 ### ABOUT GAME
 It is a game where player has to pass the beetles which are enemies and reach to river
